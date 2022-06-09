@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PremKumarAK47
 - 👀 I’m interested in ...Full Stack Web Devloper.
-- 🌱 I’m currently learning ...Web Devlopment.
+- 🌱 I’m currently learning ...MERN.
 - 💞️ I’m looking to collaborate on ...Web Devlopment.
 - 📫 How to reach me -: ...Don't Try...!!
 
