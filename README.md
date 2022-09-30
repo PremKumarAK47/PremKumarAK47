@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m currently learning Java **backend Development**
-- 📫 How to reach Portfolio: **https://kundan-10.github.io/**
+- 📫 How to reach Portfolio: **https://premkumarak47.github.io/**
 - 📫 How to reach me: **premkumar147369@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
