@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/prem-kumar-68a3ba168/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="efat-husneara-b224a2233" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prem-kumar-68a3ba168/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="prem-kumar-68a3ba168/" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SamratPremAK47" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/Prem Kumarbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="#" height="25" width="25" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/samratprem/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samratprem" height="25" width="25" /></a>&nbsp;&nbsp;
@@ -30,20 +30,20 @@ Here are some ideas to get you started:
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kundan-10&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kundan-10&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PremKumarAK47&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PremKumarAK47&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-10&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Kundan-10&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremKumarAK47&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=PremKumarAK47&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![Profile views](https://gpvc.arturio.dev/Kundan-10)  
+![Profile views](https://gpvc.arturio.dev/PremKumarAK47)  
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
