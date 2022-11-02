@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=PremKumarAK47&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
+	<a href="https://github.com/PremKumarAK47/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanj1997&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremKumarAK47&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
