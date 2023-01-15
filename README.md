@@ -35,14 +35,14 @@
 <!-- <br><br> -->
 <h2 align="left">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PremKumarAK47&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PremKumarAK47&theme=radical" alt="Prem" height="250px" width="47%" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PremKumarAK47&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
 	
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremKumarAK47&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremKumarAK47&theme=radical&langs_count=8" alt="PremKumar" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=PremKumarAK47&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 	
