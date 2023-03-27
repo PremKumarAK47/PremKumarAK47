@@ -1,6 +1,6 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://PremKumarAK47.io)
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
-<h3 align="left">A passionate Java backend developer from India</h3>
+<h3 align="left">A passionate Java Backend Developer from India</h3>
 <h4 align="left"> An IT graduate who is enhancing his skills in Java backend development...!!👨‍🎓</h4>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d">
 
@@ -12,7 +12,7 @@
    Here are something about me-:
 
 - 🔭 I’m currently working on **Spring Boot**
-- 🌱 I’m currently learning Java **backend Development**
+- 🌱 I’m currently learning Java **Backend Development**
 - 📫 How to reach Portfolio: **https://premkumarak47.github.io/**
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parasaghi@gmail.com)](mailto:premkumar147369@gmail.com)
 - ⚡ Fun fact: One Brain and Two Hand Can do anything....! 
